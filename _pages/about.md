@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. in Biology (Bioinformatics) | Computational Biologist & Bioinformatician
+subtitle: Bioinformatician
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ify.jpg
   image_circular: true
   more_info: >
     <p>Pullman, WA</p>
